@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "C:\Users\Admin\Documents\PythonTutorial\chapter36\badly.py", line 6, in <module>
+    inverse(0)
+  File "C:\Users\Admin\Documents\PythonTutorial\chapter36\badly.py", line 3, in inverse
+    return 1/x
+           ~^~
+ZeroDivisionError: division by zero
